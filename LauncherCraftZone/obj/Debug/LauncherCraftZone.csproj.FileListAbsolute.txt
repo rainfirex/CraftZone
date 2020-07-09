@@ -1,0 +1,32 @@
+d:\userprofile\programmist\documents\visual studio 2012\Projects\LauncherCraftZone\LauncherCraftZone\bin\Debug\LauncherCraftZone.exe.config
+d:\userprofile\programmist\documents\visual studio 2012\Projects\LauncherCraftZone\LauncherCraftZone\bin\Debug\LauncherCraftZone.exe
+d:\userprofile\programmist\documents\visual studio 2012\Projects\LauncherCraftZone\LauncherCraftZone\bin\Debug\LauncherCraftZone.pdb
+d:\userprofile\programmist\documents\visual studio 2012\Projects\LauncherCraftZone\LauncherCraftZone\obj\Debug\frmMain.baml
+d:\userprofile\programmist\documents\visual studio 2012\Projects\LauncherCraftZone\LauncherCraftZone\obj\Debug\frmMain.g.cs
+d:\userprofile\programmist\documents\visual studio 2012\Projects\LauncherCraftZone\LauncherCraftZone\obj\Debug\App.g.cs
+d:\userprofile\programmist\documents\visual studio 2012\Projects\LauncherCraftZone\LauncherCraftZone\obj\Debug\LauncherCraftZone_MarkupCompile.cache
+d:\userprofile\programmist\documents\visual studio 2012\Projects\LauncherCraftZone\LauncherCraftZone\obj\Debug\LauncherCraftZone.g.resources
+d:\userprofile\programmist\documents\visual studio 2012\Projects\LauncherCraftZone\LauncherCraftZone\obj\Debug\LauncherCraftZone.Properties.Resources.resources
+d:\userprofile\programmist\documents\visual studio 2012\Projects\LauncherCraftZone\LauncherCraftZone\obj\Debug\LauncherCraftZone.csproj.GenerateResource.Cache
+d:\userprofile\programmist\documents\visual studio 2012\Projects\LauncherCraftZone\LauncherCraftZone\obj\Debug\LauncherCraftZone.exe
+d:\userprofile\programmist\documents\visual studio 2012\Projects\LauncherCraftZone\LauncherCraftZone\obj\Debug\LauncherCraftZone.pdb
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\bin\Debug\LauncherCraftZone.exe.config
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\obj\Debug\LauncherCraftZone.exe
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\obj\Debug\LauncherCraftZone.pdb
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\bin\Debug\LauncherCraftZone.exe
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\bin\Debug\LauncherCraftZone.pdb
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\obj\Debug\frmMain.baml
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\obj\Debug\frmMain.g.cs
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\obj\Debug\App.g.cs
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\obj\Debug\LauncherCraftZone_MarkupCompile.cache
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\obj\Debug\LauncherCraftZone.g.resources
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\obj\Debug\LauncherCraftZone.Properties.Resources.resources
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\obj\Debug\LauncherCraftZone.csproj.GenerateResource.Cache
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\obj\Debug\LauncherCraftZone.csprojResolveAssemblyReference.cache
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\bin\Debug\Newtonsoft.Json.dll
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\obj\Debug\frmConfigServer.baml
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\obj\Debug\frmConfigServer.g.cs
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\obj\Debug\frmBackup.baml
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\obj\Debug\frmBackup.g.cs
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\obj\Debug\frmCommand.baml
+P:\MS_C#\LauncherCraftZone\LauncherCraftZone\obj\Debug\frmCommand.g.cs

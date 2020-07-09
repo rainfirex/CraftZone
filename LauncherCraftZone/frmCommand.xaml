@@ -1,0 +1,50 @@
+﻿<Window x:Name="frmCommand1" x:Class="LauncherCraftZone.frmCommand"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Команды" Height="383" Width="691" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,4,0">
+        <RichTextBox Margin="10">
+            <FlowDocument>
+                <Paragraph>
+                    <Run NumberSubstitution.CultureSource="User" Text="На момент релиза 1.9.4 существует 18 игровых правил."/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="commandBlockOutput — Предупреждать ли админов о выполнении команд в командном блоке (по умолчанию true)"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="disableElytraMovementCheck — Должен ли сервер пропускать проверку скорости игроков с надетыми надкрыльями (не рекомендуется изменять) (работает только на серверах) (по умолчанию false)"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="doDaylightCycle — Должен ли цикл дня/ночи изменять свой процесс (время также не изменяется во время сна в кровати) (по умолчанию true)"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="doEntityDrops — Должны ли существа, не являющиеся мобами дропать предметы (такие как падающий песок) (по умолчанию true)"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="doFireTick — Должен ли огонь тушится ветром или переходить на другие горючие блоки (по умолчанию true)"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="doMobLoot — Должны ли мобы дропать предметы (по умолчанию true)"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="dpMobSpawning — Должны ли мобы естественно спаунится (по умолчанию true)"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="doTileDrops — Дроп предметов после разрушения блоков (по умолчанию true)"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="keepInventory — Должен ли инвентарь сохранятся после смерти игрока (по умолчанию false)"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="logAdminCommands — Запись команд администратора в лог сервера (работает только в мультиплеере) (по умолчанию true)"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="mobGriefing — Должны ли криперы, зомби, эндермены, гасты, иссушители, эндер драконы, овцы, кролики и деревенские жители иметь право изменять блоки и должны ли деревенские жители, зомби, скелеты и зомби-свинолюди поднимать выпавшие предметы (по умолчанию true)"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="naturalRegeneration — Должен ли игрок естественно регенерировать своё здоровье, если его сытость почти полна (нет эффекта на дополнительную регенерацию, такие как золотые яблоки, эффект регенерации и т. п.) (по умолчанию true)"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="randomTickSpeed — Как часто должен происходить случайный игровой тик (такие как рост растений, опадение листвы и т. п.) на каждый игровой чанк каждый игровой тик. Значение 0 отключает случайные тики, большие значения увеличивают время между случайными тиками (по умолчанию 3)"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="reducedDebugInfo — неизвестно, но лучше не включать (по умолчанию false)"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="sendCommandFeedback — Выводить ли в чат информацию при успешном выполнении команды в чате (по умолчанию true)"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="showDeathMessages — Должно ли после смерти появляться соответствующее сообщение (по умолчанию true"/>
+                    <LineBreak NumberSubstitution.CultureSource="User"/>
+                    <Run NumberSubstitution.CultureSource="User" Text="spectatorsGenerateChunks — Должны ли игроки в режиме наблюдения (/gamemode 3) генерировать новые чанки (по умолчанию true)"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>
